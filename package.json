@@ -1,0 +1,30 @@
+{
+  "name": "arbor",
+  "version": "1.0.0",
+  "description": "arbor.js --------",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samizdatco/arbor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samizdatco/arbor/issues"
+  },
+  "homepage": "https://github.com/samizdatco/arbor#readme",
+  "devDependencies": {
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-multi": "^1.0.1",
+    "gulp-concat-util": "^0.5.5"
+  }
+}
